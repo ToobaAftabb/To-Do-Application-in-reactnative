@@ -32,7 +32,7 @@ A basic todo app built in react-native using hooks only. Basic functionality inc
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/ToobaAftabb/To-Do-Application in reactnative
+https://github.com/ToobaAftabb/To-Do-Application-in-reactnative
 ```
 
 **Step 2:**
